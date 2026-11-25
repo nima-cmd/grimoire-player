@@ -1,0 +1,24 @@
+{
+  "name": "grimoire-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nima-cmd/grimoire-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nima-cmd/grimoire-player/issues"
+  },
+  "homepage": "https://github.com/nima-cmd/grimoire-player#readme",
+  "devDependencies": {
+    "electron": "github:castlabs/electron-releases#v44.1.0+wvcus"
+  }
+}
